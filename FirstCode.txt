@@ -2,3 +2,6 @@ Hello World!!
 I'm Hariom Jadhav
 take input from user
 add the values
+
+
+submit data to the database
